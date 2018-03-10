@@ -1,0 +1,18 @@
+Name			height(m)	weight(kg)	BMI	Category
+============		=========       ==========      ====    =========
+Salina binti Abu	   1.54 	    65		27.41	overweight
+Tan Tin Tun		   1.80 	    70		21.60	normalweight
+Muhammad Aiman		   1.70 	    52		17.99	underweight
+Marina Chin		   1.60 	    60		23.44	normalweight
+Yuri            	   1.94 	    100		26.57	overweight
+Lai San Young   	   1.55 	    120		49.95	obese
+John Wayne      	   1.80 	    30		9.26	underweight
+Lily flower     	   1.70 	    55		19.03	normalweight
+Sim Hong        	   1.55 	    70		29.14	overweight
+Ali abu			   1.23 	    200		132.20	obese
+Number of student underweight	: 2
+Number of student normal weight	: 3
+Number of student overweight	: 3
+Number of student obese		: 2
+Average BMI of all students	: 35.66
+Average category		: obese
